@@ -1,0 +1,9 @@
+co/com/sofka/weather/test/helpers/TestInfo.java
+ co.com.sofka.weather.test.helpers.TestInfo
+ co.com.sofka.weather.test.helpers.TestInfo$InformationTag
+co/com/sofka/weather/test/api/ControllerRestGet.java
+ co.com.sofka.weather.test.api.ControllerRestGet
+co/com/sofka/weather/test/controllers/ControllerConsultarClima.java
+ co.com.sofka.weather.test.controllers.ControllerConsultarClima
+co/com/sofka/weather/test/steps/api/ConsultarClimaStep.java
+ co.com.sofka.weather.test.steps.api.ConsultarClimaStep
